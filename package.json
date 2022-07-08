@@ -161,7 +161,7 @@
     "metascraper-publisher": "5.25.8",
     "metascraper-title": "5.25.8",
     "metascraper-url": "5.25.8",
-    "moment": "2.24.0",
+    "moment": "2.29.4",
     "moment-timezone": "0.5.23",
     "multer": "1.4.4",
     "mysql": "2.18.1",
@@ -219,7 +219,7 @@
   },
   "resolutions": {
     "@tryghost/logging": "2.0.4",
-    "moment": "2.24.0",
+    "moment": "2.29.4",
     "moment-timezone": "0.5.23"
   }
 }
